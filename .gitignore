@@ -1,0 +1,13 @@
+# Java build artifacts
+*.class
+out/
+
+# IntelliJ and Eclipse files
+*.iml
+.idea/
+*.classpath
+*.project
+
+# OS files
+.DS_Store
+Thumbs.db
